@@ -6,5 +6,5 @@ plugins {
 // Below goes a reusable piece of Compose configuration.
 
 dependencies {
-    implementation(compose.desktop.currentOs)
+//    implementation(compose.desktop.currentOs)
 }
